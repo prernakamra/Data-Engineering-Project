@@ -1,0 +1,26 @@
+user_id,name,email,region
+T001,John Doe,john.doe@example.com,North
+T002,Jane Smith,jane.smith@example.com,East
+T003,Alice Williams,alice.w@example.com,West
+T004,Bob Miller,bob.miller@example.com,South
+T005,Carol Johnson,carol.j@example.com,North
+T006,David Roberts,david.r@example.com,West
+T007,Emma Thompson,emma.t@example.com,East
+T008,George King,george.k@example.com,South
+T009,Hannah Lee,hannah.l@example.com,North
+T010,Ian Ford,ian.f@example.com,West
+T011,Julia Perez,julia.p@example.com,East
+T012,Kevin Green,kevin.g@example.com,South
+T013,Laura Harris,laura.h@example.com,North
+T014,Mark White,mark.w@example.com,West
+T015,Nina Diaz,nina.d@example.com,East
+T016,Oliver Jones,oliver.j@example.com,South
+T017,Peter Smith,peter.s@example.com,North
+T018,Quincy Ross,quincy.r@example.com,West
+T019,Rose Morgan,rose.m@example.com,East
+T020,Sam Kumar,sam.k@example.com,South
+T021,Tina Liu,tina.l@example.com,North
+T022,Ursula Park,ursula.p@example.com,West
+T023,Vincent Quinn,vincent.q@example.com,East
+T024,Wendy Zhang,wendy.z@example.com,South
+T025,Xander Davis,xander.d@example.com,North
