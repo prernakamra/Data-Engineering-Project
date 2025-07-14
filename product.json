@@ -1,0 +1,127 @@
+[
+  {
+    "sku": "PROD001",
+    "name": "Wireless Mouse",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD002",
+    "name": "Bluetooth Keyboard",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD003",
+    "name": "USB-C Charging Cable",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD004",
+    "name": "Smartphone Stand",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD005",
+    "name": "Noise Cancelling Headphones",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD006",
+    "name": "Laptop Sleeve",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD007",
+    "name": "Portable Bluetooth Speaker",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD008",
+    "name": "Power Bank 10000mAh",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD009",
+    "name": "Gaming Mouse",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD010",
+    "name": "Wireless Earbuds",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD011",
+    "name": "External Hard Drive 1TB",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD012",
+    "name": "Phone Screen Protector",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD013",
+    "name": "Wireless Charging Pad",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD014",
+    "name": "Smartwatch",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD015",
+    "name": "Gaming Headset",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD016",
+    "name": "VR Headset",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD017",
+    "name": "Tablet Stylus Pen",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD018",
+    "name": "Portable SSD 512GB",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD019",
+    "name": "Bluetooth Car Adapter",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD020",
+    "name": "Laptop Cooling Pad",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD021",
+    "name": "Smart Home Assistant",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD022",
+    "name": "LED Desk Lamp",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD023",
+    "name": "Car Phone Mount",
+    "category": "accessories"
+  },
+  {
+    "sku": "PROD024",
+    "name": "Fitness Tracker",
+    "category": "electronics"
+  },
+  {
+    "sku": "PROD025",
+    "name": "Portable Power Station",
+    "category": "electronics"
+  }
+]
